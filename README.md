@@ -1,5 +1,5 @@
 # Sprint 6 IT Academy | First React Application
-![Alt text]
+![Alt text](https://github.com/JuditKaramazov/Sprint6/blob/4ede144af08922b36d22f95c9cdab2e5059770aa/src/assets/Screenshot-2.jpeg)
 
 
 ## Introduction
@@ -23,7 +23,7 @@ $ npx create-react-app name_of_project
 $ npm start
 ```
 
-![Alt text]
+![Alt text](https://github.com/JuditKaramazov/Sprint6/blob/4ede144af08922b36d22f95c9cdab2e5059770aa/src/assets/Screenshot-1.png)
 
 As seen above, the final result should look somehow similar to the one provided by IT Academy's guidelines and the usage of `styled-components`.
 
@@ -31,10 +31,10 @@ As seen above, the final result should look somehow similar to the one provided 
 
 In order to customize the assignment, however, I decided to include new designs and quotes extracted from the `Tao Te Ching` while still respecting the basis of the project; the objective, in this case, varied from telling a story to providing the user with some meaningful and philosophical quotes:
 
-![Alt text]
+![Alt text](https://github.com/JuditKaramazov/Sprint6/blob/4ede144af08922b36d22f95c9cdab2e5059770aa/src/assets/Screenshot-3.jpeg)
 
 It would have been impossible for me to achieve this result if it wasn't thanks to incredibly talented illustrators such as `Helvetica Blanc` (https://helveticablanc.com/), the creator behind the artwork that illustrates this application. If you still don't know their work, please, have a look at it (it's simply amazing; you have my word!) - and try your best to support (in any way possible) these creators with such a unique vision of reality.
 
 - Thanks a lot for becoming a part of this!
 
-![Alt text]
+![Alt text](https://github.com/JuditKaramazov/Sprint6/blob/4ede144af08922b36d22f95c9cdab2e5059770aa/src/assets/Screenshot-4.jpeg)
